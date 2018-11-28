@@ -16,6 +16,7 @@ const styles = {
 		borderColor: 'silver',
 		borderBottomWidth: 0,
 		shadowColor: '#000',
+		backgroundColor: '#fff',
 		shadowOffset: { width: 0, height: 0 },
 		shadowOpacity: 0.1,
 		shadowRadius: 2,
